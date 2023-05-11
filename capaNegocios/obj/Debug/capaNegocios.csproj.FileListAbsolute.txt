@@ -1,0 +1,10 @@
+C:\Users\Camy\documents\visual studio 2015\Projects\Biblioteca\capaNegocios\bin\Debug\capaNegocios.dll
+C:\Users\Camy\documents\visual studio 2015\Projects\Biblioteca\capaNegocios\bin\Debug\capaNegocios.pdb
+C:\Users\Camy\documents\visual studio 2015\Projects\Biblioteca\capaNegocios\bin\Debug\capaDatos.dll
+C:\Users\Camy\documents\visual studio 2015\Projects\Biblioteca\capaNegocios\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Camy\documents\visual studio 2015\Projects\Biblioteca\capaNegocios\bin\Debug\capaComun.dll
+C:\Users\Camy\documents\visual studio 2015\Projects\Biblioteca\capaNegocios\bin\Debug\capaDatos.pdb
+C:\Users\Camy\documents\visual studio 2015\Projects\Biblioteca\capaNegocios\bin\Debug\capaComun.pdb
+C:\Users\Camy\documents\visual studio 2015\Projects\Biblioteca\capaNegocios\obj\Debug\capaNegocios.csprojResolveAssemblyReference.cache
+C:\Users\Camy\documents\visual studio 2015\Projects\Biblioteca\capaNegocios\obj\Debug\capaNegocios.dll
+C:\Users\Camy\documents\visual studio 2015\Projects\Biblioteca\capaNegocios\obj\Debug\capaNegocios.pdb

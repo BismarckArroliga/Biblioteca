@@ -1,0 +1,8 @@
+C:\Users\Camy\documents\visual studio 2015\Projects\Biblioteca\capaDatos\bin\Debug\capaDatos.dll
+C:\Users\Camy\documents\visual studio 2015\Projects\Biblioteca\capaDatos\bin\Debug\capaDatos.pdb
+C:\Users\Camy\documents\visual studio 2015\Projects\Biblioteca\capaDatos\bin\Debug\capaComun.dll
+C:\Users\Camy\documents\visual studio 2015\Projects\Biblioteca\capaDatos\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Camy\documents\visual studio 2015\Projects\Biblioteca\capaDatos\bin\Debug\capaComun.pdb
+C:\Users\Camy\documents\visual studio 2015\Projects\Biblioteca\capaDatos\obj\Debug\capaDatos.csprojResolveAssemblyReference.cache
+C:\Users\Camy\documents\visual studio 2015\Projects\Biblioteca\capaDatos\obj\Debug\capaDatos.dll
+C:\Users\Camy\documents\visual studio 2015\Projects\Biblioteca\capaDatos\obj\Debug\capaDatos.pdb

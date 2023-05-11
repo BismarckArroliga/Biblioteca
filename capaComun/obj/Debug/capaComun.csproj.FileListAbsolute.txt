@@ -1,0 +1,6 @@
+C:\Users\Camy\documents\visual studio 2015\Projects\Biblioteca\capaComun\bin\Debug\capaComun.dll
+C:\Users\Camy\documents\visual studio 2015\Projects\Biblioteca\capaComun\bin\Debug\capaComun.pdb
+C:\Users\Camy\documents\visual studio 2015\Projects\Biblioteca\capaComun\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Camy\documents\visual studio 2015\Projects\Biblioteca\capaComun\obj\Debug\capaComun.dll
+C:\Users\Camy\documents\visual studio 2015\Projects\Biblioteca\capaComun\obj\Debug\capaComun.pdb
+C:\Users\Camy\documents\visual studio 2015\Projects\Biblioteca\capaComun\obj\Debug\capaComun.csprojResolveAssemblyReference.cache
